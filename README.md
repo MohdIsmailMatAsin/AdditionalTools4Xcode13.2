@@ -4,4 +4,4 @@
 
 ## ACKNOWLEGEMENT
 
-- [Apple](https://www.apple.com/)
+[Apple](https://www.apple.com/)
